@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Black Stone</string>
+    <string name="general_error">Something went wrong</string>
+    <string name="your_current_currency_is_eur">Your current base currency is EUR</string>
+    <string name="enter_your_amount">Enter your amount</string>
+    <string name="convert">Convert</string>
+    <string name="select_currency">Select currency</string>
+</resources>
